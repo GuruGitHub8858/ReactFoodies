@@ -9,7 +9,7 @@ function Navigation() {
     <AppBar position="static" className="toolbar">
       <Toolbar>
         <Typography variant="h6" component="div">
-          Vellar Engineering College
+          Siet
         </Typography>
         <nav>
           <ul className="nav-list">
