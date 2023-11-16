@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "title": "guruuu",
+      "id": 2
+    },
+    {
+      "title": "guru",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "bb",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "sleeping",
+      "id": 5
+    },
+    {
+      "title": "jdjd",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": " eating",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "bxxxbxbb",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "xmmxmmx",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "title": "guru  // setnewtodo == newtodo  guru",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "title": "yeswanth  // newtodo",
+      "completed": false,
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
